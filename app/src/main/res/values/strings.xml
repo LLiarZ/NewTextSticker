@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewTextSticker</string>
+    <string name="input_hint">输入文本</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="zhou_normal">#00000000</color>
+    <color name="zhou_pressed">#03a9f4</color>
+    <color name="one_one">#000000</color>
+    <color name="one_two">#CDFBF9</color>
+    <color name="one_three">#0C134A</color>
+    <color name="one_four">#510D50</color>
+    <color name="one_five">#E8BE5D</color>
+    <color name="two_one">#FDFDFE</color>
+    <color name="two_two">#57DBFA</color>
+    <color name="two_three">#873FE2</color>
+    <color name="two_four">#6BDC32</color>
+    <color name="two_five">#FA2956</color>
+    <color name="three_one">#C3C7CA</color>
+    <color name="three_two">#098CFB</color>
+    <color name="three_three">#097C8E</color>
+    <color name="three_four">#FAD71C</color>
+    <color name="three_five">#D81718</color>
+    <color name="four_one">#737780</color>
+    <color name="four_two">#0A31B3</color>
+    <color name="four_three">#069B08</color>
+    <color name="four_four">#CEC097</color>
+    <color name="four_five">#FA6317</color>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="300dp"
+    android:gravity="center_horizontal"
+    >
+
+    <com.example.colorpalette.core.ColorPalette
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:id="@+id/zhou_fragment_color"
+    >
+    </com.example.colorpalette.core.ColorPalette>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+        <Button
+            android:text="取消"
+            android:id="@+id/zhou_cancel_btn"
+            android:background="@drawable/btn"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            >
+        </Button>
+        <Button
+            android:text="确定"
+            android:id="@+id/zhou_confim_btn"
+            android:background="@drawable/btn"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            >
+        </Button>
+    </LinearLayout>
+</LinearLayout>

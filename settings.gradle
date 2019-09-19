@@ -1,0 +1,2 @@
+include ':app', ':colorpalette', ':typeface'
+rootProject.name='NewTextSticker'
